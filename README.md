@@ -11,3 +11,7 @@ You can access to /resources/quotes/ for all quotes<br>
 And /resource/quotes/{id} for one quote.
 
 Webservice can produce XML or JSON, depends on request of client.
+
+<b>ANDROID APP</b>
+
+See other repository with the associated app.
